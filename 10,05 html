@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Glucode- Web and Mobile App</title>
+	<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+	<div class="header">
+	
+	<div class="logo">
+	<a href=""><img src="https://static1.glucode.com/assets/glucode-logo-b76281911de47eea74d8deb6fe94e674be61e19e2c6a8ae19e8b7d248a3ebac6.svg" alt="logo"></a>
+	</div>
+	<nav class ="menu">
+	<ul>
+			  <li><a href="">SERVICES</a></li>
+			  <li><a href="">PROJECT</a></li>
+			  <li><a href="">COMPANY</a></li>
+			  <li><a href="">CAREERS</a></li>
+			  <li><a href="">CONTACT</a></li>
+			  </ul>
+		</nav>
+</div>
+
+<div class="firstbar">
+<div class="imgwithcredo"> 
+<div class="credo">
+<h1>Improving lives through digital experiences</h1>
+</div>
+
+</div>
+
+<div class="secondbar">
+        <h1 class="mission-title">What we do</h1>
+    <p class="text-mission">Glucode brings innovative thinkers and creators together to produce apps that people love.</p>
+    </div>
+
+
+<div class="column-imgs">
+
+		<div class="first-column">
+		<img class="col-im" src="https://static2.glucode.com/assets/strategise-ill-354ba379020290d2413bb62b27c4dc92abb677b0d371662818b311c37e77c98d.svg">
+		<h2 class="column">STRATEGISE</h2>
+		<p class="column-text"> We take time to understand your business and its goals to help you create a clear strategy for your app.</p>
+		</div>
+		
+		
+				<div class="second-column">
+				<img class="col-im" src="https://static3.glucode.com/assets/design-ill-fd436fc4177cf1d3b293620cfd8eb56efda89366faedfab94f958296fe6a993a.svg">
+				<h2 class="column">DESIGN</h2>
+				<p class="column-text"> We combine creativity with the best practices of design to create delightful, user-centered interfaces.</p>
+				</div>
+				
+				
+		<div class="third-column">
+				<img class="col-im" src="https://static0.glucode.com/assets/develop-ill-ddbbf48fa5993dc97167bb794da313087df1b270a992f78faebd6e6184cd5453.svg">
+				<h2 class="column">DEVELOP</h2>
+				<p class="column-text"> We develop apps that work and adhere to the highest development and industry standards.</p>
+				</div>
+</div>
+
+<div class="bl-button">
+	<a class="black-button" href="https://glucode.com/services"> OUR SERVICES</a>
+	
+</div>
+
+<div class="featured-projects">
+<h1 class="featured-title">FEATURED PROJECTS</h1>
+<p class="featured-text">We translate exciting ideas into viable strategies to develop apps that look and work great.</p>
+</div>
+</div>
+
+
+
+
+
+</body>
+
+</html>
